@@ -1,0 +1,4 @@
+c:\users\hilcomputer\documents\visual studio 2010\Projects\giraffe\giraffe\bin\Debug\giraffe.exe
+c:\users\hilcomputer\documents\visual studio 2010\Projects\giraffe\giraffe\bin\Debug\giraffe.pdb
+c:\users\hilcomputer\documents\visual studio 2010\Projects\giraffe\giraffe\obj\x86\Debug\giraffe.exe
+c:\users\hilcomputer\documents\visual studio 2010\Projects\giraffe\giraffe\obj\x86\Debug\giraffe.pdb
